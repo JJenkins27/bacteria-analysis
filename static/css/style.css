@@ -1,0 +1,9 @@
+.panel-default > .panel-heading-custom {
+    background: #1b7579; color: #fff;
+    font: #1b7579;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    text-align: center;
+}

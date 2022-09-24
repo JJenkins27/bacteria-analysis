@@ -8,7 +8,7 @@ Information about sample bacteria collected from many individuals. Results publi
 
 ### Purpose
 
-Rosa is a biological researcher in a microbiology laboratory. Rosa is interested in bacteria that is able to synthesize proteins that taste like beef. Her lab has partnered with Improbable Beef, a food start-up, to research candidate species. A microorganism that may supply the "next best taste" is bacteria found within the belly button. Samples are taken from the navels of individuals across the country. A website has been created to show the id and demographic information of the individual sampled, a bar and scatter plot of the most populous type of bacteria found in the navel, and a gauge chart that reflects how many times the navel is washed within a week period.
+Rosa is a biological researcher in a microbiology laboratory. Rosa is interested in bacteria that is able to synthesize proteins that taste like beef. Her lab has partnered with Improbable Beef, a food start-up, to research candidate species. A microorganism that may supply the "next best taste" is bacteria found within the belly button. Samples are taken from the navels of individuals across the country. A website has been created to show the id and demographic information of the individual sampled. Visualizations include a bar and scatter plot of the most populous type of bacteria found in the navel and a gauge chart that reflects how many times the navel is washed within a week period.
 
 ## Results
 
